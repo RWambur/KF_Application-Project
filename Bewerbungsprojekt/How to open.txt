@@ -1,0 +1,9 @@
+So öffnen Sie das Programm:
+bin -> Debug -> netcoreapp3.1 -> publish -> Bewerbungsprojekt.exe
+
+Es könnte sein dass, Ihr Antiviren-Programm das öffnen der Datei nicht zulässt. Wenn das der fall ist können Sie den Code von
+dem Programm per Code-Bearbeitungsprogramm Öffnen.
+
+Den Code zum Programm finden Sie in "Program.cs".
+
+Geschrieben in Visual Studio Code mit C#

@@ -1,0 +1,39 @@
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.exe
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.deps.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.dev.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csprojAssemblyReference.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfoInputs.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfo.cs
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csproj.CoreCompileInputs.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.genruntimeconfig.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.exe
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.deps.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.dev.json
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csprojAssemblyReference.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfoInputs.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfo.cs
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csproj.CoreCompileInputs.cache
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\Bewerbungsprojekt\Code\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.genruntimeconfig.cache
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.exe
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.deps.json
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.json
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.runtimeconfig.dev.json
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\bin\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csprojAssemblyReference.cache
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfoInputs.cache
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.AssemblyInfo.cs
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.csproj.CoreCompileInputs.cache
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.dll
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.pdb
+C:\Users\frage\Desktop\ \Coden\Bewerbungsprojekt\obj\Debug\netcoreapp3.1\Bewerbungsprojekt.genruntimeconfig.cache
